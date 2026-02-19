@@ -1,2 +1,1 @@
 pytest
-nonexistent-package-xyz123  # ❌ This package doesn't exist
